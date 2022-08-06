@@ -1,2 +1,4 @@
 config:
  info: "test"
+server:
+ port: 8881 
